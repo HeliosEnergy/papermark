@@ -38,7 +38,7 @@
     "@dnd-kit/utilities": "^3.2.2",
     "@documenso/embed-react": "^0.6.0",
     "@documenso/sdk-typescript": "^0.8.1",
-    "@dub/embed-react": "^0.0.16",
+    "@dub/embed-react": "^0.0.19",
     "@github/webauthn-json": "^2.1.1",
     "@hookform/resolvers": "^5.2.2",
     "@jitsu/js": "^1.10.4",
