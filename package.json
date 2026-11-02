@@ -32,7 +32,7 @@
     "@axiomhq/js": "^1.7.0",
     "@boxyhq/saml-jackson": "^26.2.0",
     "@calcom/embed-react": "^1.5.3",
-    "@chronark/zod-bird": "^0.3.10",
+    "@chronark/zod-bird": "^1.0.0",
     "@dnd-kit/core": "^6.3.1",
     "@dnd-kit/sortable": "^10.0.0",
     "@dnd-kit/utilities": "^3.2.2",
@@ -82,9 +82,9 @@
     "@tiptap/react": "^3.22.5",
     "@tiptap/starter-kit": "^3.22.5",
     "@tremor/react": "^3.18.7",
-    "@trigger.dev/python": "4.5.10",
+    "@trigger.dev/python": "4.8.3",
     "@trigger.dev/react-hooks": "4.5.10",
-    "@trigger.dev/sdk": "4.5.10",
+    "@trigger.dev/sdk": "4.8.3",
     "@tus/s3-store": "^1.9.1",
     "@tus/server": "^1.10.2",
     "@tus/utils": "^0.5.1",
@@ -177,12 +177,12 @@
     "use-stick-to-bottom": "^1.1.4",
     "vaul": "^1.1.2",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
-    "zod": "^3.25.76"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@react-email/ui": "^6.3.2",
     "@tailwindcss/forms": "^0.5.11",
-    "@trigger.dev/build": "4.5.10",
+    "@trigger.dev/build": "4.8.3",
     "@trivago/prettier-plugin-sort-imports": "^6.0.2",
     "@types/bcryptjs": "^2.4.6",
     "@types/cookie": "^0.6.0",
@@ -203,7 +203,7 @@
     "prisma": "6.5.0",
     "tsx": "^4.22.3",
     "typescript": "^5",
-    "zod-openapi": "^4.2.4"
+    "zod-openapi": "^6.0.2"
   },
   "prisma": {
     "schema": "prisma/schema"
